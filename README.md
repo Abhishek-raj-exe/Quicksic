@@ -1,7 +1,7 @@
 # Quicksic
  An app interface for yt music without ads
 ----------------------------------------------
-quiet far from preview.....
+quiet far from pleasable preview.....
 
 but
 
