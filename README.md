@@ -1,5 +1,5 @@
 # Quicksic
- An app interface for yt music without ads
+ An app for yt music without ads
 ----------------------------------------------
 ain't uploading for legal reasons.....
 
