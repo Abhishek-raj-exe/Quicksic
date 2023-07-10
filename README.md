@@ -1,7 +1,7 @@
 # Quicksic
  An desktop app for yt music without ads
 ----------------------------------------------
-ain't uploading for legal reasons.....
+quiet in alpha stage .....
 
 but
 
