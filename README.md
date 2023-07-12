@@ -16,6 +16,7 @@ but
 3. Customized A-I Recommendation(in pre production)
 4. Dynamic Background Colors
 5. Recent,custom Playlists
+6. Voice Search
 
 # Current development Issues/Problems
 1. Heavy & Jittery
