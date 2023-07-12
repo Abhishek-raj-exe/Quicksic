@@ -20,4 +20,4 @@ but
 # Current development Issues/Problems
 1. Heavy & Jittery
 2. Limited Search Results per page
-3. Ad-Block is still unstable(due to webdriver)
+3. Ad-Block is still unstable(webdriver ¯\_(ツ)_/¯)
