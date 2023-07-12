@@ -11,13 +11,13 @@ but
 
 
 # Features
-1.Builtin Ad-Block
-2.No SignUp required
-3.Customized A-I Recommendation(in pre production)
-4.Dynamic Background Colors
-5.Recent,custom Playlists
+1. Builtin Ad-Block
+2. No SignUp required
+3. Customized A-I Recommendation(in pre production)
+4. Dynamic Background Colors
+5. Recent,custom Playlists
 
 # Current development Issues/Problems
-1.Heavy & Jittery
-2.Limited Search Results per page
-3.Ad-Block is still unstable(due to webdriver)
+1. Heavy & Jittery
+2. Limited Search Results per page
+3. Ad-Block is still unstable(due to webdriver)
