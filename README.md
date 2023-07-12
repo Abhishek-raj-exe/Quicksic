@@ -20,7 +20,7 @@ but
 
 # Current development Issues/Problems
 
----I am plannig to make my own and itegrating it , resulting more freedom and control---
+---I am plannig on my own streamer and itegrating it , resulting more freedom and control---
 
 1. occasionally Jittered/laggy playback slider(cuz yt doesn't lemme do it directly wth keys)
 2. Limited Search Results per page( provides faster response)
