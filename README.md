@@ -1,7 +1,8 @@
 # Quicksic
- An desktop app for yt music without ads
+A desktop app for YouTube music without ads
 ----------------------------------------------
-quiet in alpha stage .....
+
+*quiet in alpha stage .....*
 
 but
 
@@ -11,24 +12,24 @@ but
 
 
 # Features
-1. Builtin Ad-Block
-2. No SignUp required
-3. Customized A-I Recommendation(in pre production)
+1. Built-in Ad-Block
+2. No Sign-Up required
+3. Customized A.I. Recommendations (in pre-production)
 4. Dynamic Background Colors
-5. Recent,custom Playlists
+5. Recent and Custom Playlists
 6. Voice Search
 
-# Current development Issues/Problems
+# Current Development Issues/Problems
 
----I am plannig on my own streamer and itegrating it , resulting more freedom and control---
+---I am planning on my own streamer and integrating it, resulting in more freedom and control---
 
-1. ~~occasionally Jittered/laggy playback slider(cuz yt doesn't lemme do it directly wth keys)~~ this one is fixed prob ,now im using diff method
-2. ~~Limited Search Results per page( provides faster response)~~ this one is being twicked for finite(max 150) magicwidgets(generated with scroll or more button)
-3. No segregation of albums and videos & no profile/album preview (Cuz i am stuck in other bugs)
-4. Gsignup available but with localhost only and user is required to have the account logged in the defined browser ( login works for 2yrs prob)
-5. ~~Ad-Block is still unstable(its webdriver. ¯\ _(ツ)_ /¯ notmyfault)~~ this one is almost fixed ig and prob wont be needed
-6. ~~No network connectivity notifications , but is being tracked~~ notifications are popping now .. network connectivity is being worked
-7. No Video Playback: this one is not possible cuz iam directly using raw stream data; possible work around is caching it first but isnt healthy for ssd users ; yes i know i can use vlc but it ads up with more dependencies plus it will play it externally which would be...
-8. Dynamics arent always attractive (cuz im not caching the images) hence needs a better pallete algo
-9. voice search isnt implemented(it is simple) becoz search provider is not yet finished 
-10. Top charts for songs not visible unless logged similar case with age-restricted content(i think this part might be scraped if i scrap gsignup)
+1. ~~occasionally jittered/laggy playback slider (cuz YouTube doesn't let me do it directly wth keys)~~ this one is fixed prob, now I'm using a different method.
+2. ~~Limited Search Results per page (provides faster response)~~ this one is being tweaked for finite (max 150) magic widgets (generated with scroll or more button)
+3. No segregation of albums and videos & no profile/album preview (cuz I am stuck with other bugs)
+4. Gsignup available but with localhost only, and the user is required to have the account logged in the defined browser (login works for 2 years prob)
+5. ~~Ad-Block is still unstable (its webdriver. ¯\ _(ツ)_ /¯ not my fault)~~ this one is almost fixed ig and prob won't be needed
+6. ~~No network connectivity notifications, but is being tracked~~ notifications are popping now.. network connectivity is being worked
+7. No Video Playback: this one is not possible cuz I am directly using raw stream data; a possible workaround is caching it first but isn't healthy for SSD users; yes, I know I can use VLC, but it adds up with more dependencies plus it will play it externally which would be...
+8. Dynamics aren't always attractive (cuz I'm not caching the images) hence needs a better palette algo
+9. voice search isn't implemented (it is simple) becoz search provider is not yet finished
+10. Top charts for songs not visible unless logged similar case with age-restricted content (I think this part might be scraped if I scrap Gsignup)
