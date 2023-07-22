@@ -22,8 +22,8 @@ but
 
 ---I am plannig on my own streamer and itegrating it , resulting more freedom and control---
 
-1. occasionally Jittered/laggy playback slider(cuz yt doesn't lemme do it directly wth keys)
-2. Limited Search Results per page( provides faster response)
+1. ~~occasionally Jittered/laggy playback slider(cuz yt doesn't lemme do it directly wth keys)~~ this one is fixed prob ,now im using diff method
+2. ~~Limited Search Results per page( provides faster response)~~ this one is being twicked for finite(max 150) magicwidgets(generated with scroll or more button)
 3. No segregation of albums and videos & no profile/album preview (Cuz i am stuck in other bugs)
 4. Gsignup available but with localhost only and user is required to have the account logged in the defined browser ( login works for 2yrs prob)
 5. ~~Ad-Block is still unstable(its webdriver. ¯\ _(ツ)_ /¯ notmyfault)~~ this one is almost fixed ig
