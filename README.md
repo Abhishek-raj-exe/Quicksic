@@ -10,6 +10,8 @@ but
 
 ![Screenshot](https://github.com/Abhishek-raj-exe/Quicksic/blob/main/ss/wast%202.png)
 
+![Screenshot](https://github.com/Abhishek-raj-exe/Quicksic/blob/main/ss/wast%203.png)
+
 
 # Features
 1. Built-in Ad-Block
