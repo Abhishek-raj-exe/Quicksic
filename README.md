@@ -17,11 +17,12 @@ but
 3. Customized A.I. Recommendations (in pre-production)
 4. Dynamic Background Colors
 5. Recent and Custom Playlists
-6. Voice Search
+6. Likes and basic functionality (authorised users)
+7. Voice Search
 
 # Current Development Issues/Problems
 
----I am planning on my own streamer and integrating it, resulting in more freedom and control---
+~~---I am planning on my own streamer and integrating it, resulting in more freedom and control---~~ my personal streamer soft is cancelled due to heavy knowledge and time investment needs
 
 1. ~~occasionally jittered/laggy playback slider (cuz YouTube doesn't let me do it directly wth keys)~~ this one is fixed prob, now I'm using a different method.
 2. ~~Limited Search Results per page (provides faster response)~~ this one is being tweaked for finite (max 150) magic widgets (generated with scroll or more button)
