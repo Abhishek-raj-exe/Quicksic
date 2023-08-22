@@ -61,6 +61,8 @@ Dark Theme
 9. ~~voice search isn't implemented (it is simple) becoz search provider is not yet finished~~ voice search implemented
 10. Top charts for songs not visible unless logged similar case with age-restricted content (I think this part might be scraped if I scrap Gsignup)
 11. Recommendation are not implented
+12. rarely some video thumbnails might not pop up
+13. response speeds are slow
 
 # UI - Improvements
 alpha 0.2
