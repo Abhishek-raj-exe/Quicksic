@@ -2,7 +2,7 @@
 A desktop app/client for YouTube music without ads
 ----------------------------------------------
 
-*current version 0.8b demo will be pushed soon*
+*current version 0.8b, demo will be pushed soon*
 
 Light Theme
 
