@@ -61,7 +61,7 @@ Dark Theme
 9. Lyrics and related suggestion
 
 # Current Development Issues/Problems/Resitriction adapted
-
+Total performance boost gained this week is about 10-12x
 1. player is fixed since Azure media services is retiring next yr, which was my streamer platform i found much lighter builtin work around which also supports video
 2. Searches are limited to 100 for performance
 3. ~~no profile/album preview yet~~ album preview are added no profile visits yet
@@ -77,7 +77,6 @@ Dark Theme
 13. ~~response speeds are slow~~ after furious attemps to speed up the app , using multiple workarounds with cython and smart syntax , the wisdom i gained is the app is working best with its dependencies and any changes only
     end-up either hampering/damping the process to much worse extent.
 14. Jammed a clutter full code to cython and now is just a module resulting clearer code & performance boost (+-20/50 ms) sounds small but on operation cycle saves many minutes of load
-
 # UI - Improvements
 alpha 0.2
 ![Screenshot](https://github.com/Abhishek-raj-exe/Quicksic/blob/main/ss/progress/Screenshot%202023-08-21%20011547.png)
